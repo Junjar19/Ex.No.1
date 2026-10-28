@@ -1,5 +1,8 @@
 # Ex.No.1 COMPREHENSIVE REPORT ON THE FUNDAMENTALS OF GENERATIVE AI AND LARGE LANGUAGE MODELS (LLMS)
 
+## Name: Junjar U
+## Register Number: 212224230110
+
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
